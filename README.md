@@ -1,2 +1,2 @@
-# AutoLayout-pragmatically
-Basic AutoLayout Progmatically
+# AutoLayout-programmatically
+Basic AutoLayout Programmatically
